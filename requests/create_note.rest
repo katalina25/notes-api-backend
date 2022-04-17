@@ -1,0 +1,17 @@
+POST  http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+  "content":"Esto es una nueva nota"
+
+}
+
+
+###
+# para tener varios ejemplos en un mismo archivo
+POST  http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+
+}
